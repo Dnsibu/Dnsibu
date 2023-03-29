@@ -17,8 +17,6 @@ I am excited to apply my skills and knowledge to real-world problems and make an
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=003B57)
 ![](https://img.shields.io/badge/Tools-Slack-informational?style=flat&logo=Slack&logoColor=white&color=4A154B)
 
-<img align="left" alt="Dnsibu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dnsibu&show_icons=true" />
-
 ### 🤝 Conect with me 🤝
 <a href= "mailto:nsibud1@gator.uhd.edu"><img align="left" alt="nsibud1@gator.uhd.edu" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"/></a>
 <a href="https://github.com/Dnsibu"><img align="left" alt="Dnsibu" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg"/></a>
@@ -28,3 +26,6 @@ I am excited to apply my skills and knowledge to real-world problems and make an
 
 ### Thank you for visiting!
 ![Visitor Count](https://profile-counter.glitch.me/{Dnsibu}/count.svg)
+
+
+<img align="left" alt="Dnsibu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dnsibu&show_icons=true" />
