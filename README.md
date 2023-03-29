@@ -8,7 +8,7 @@ I am excited to apply my skills and knowledge to real-world problems and make an
 </br>
 
 ## 🤝 Conect with me 🤝
-<a href= "nsibud1@gator.uhd.edu"><img align="left" alt="nsibud1@gator.uhd.edu" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"/></a>
+<a href= "mailto:nsibud1@gator.uhd.edu"><img align="left" alt="nsibud1@gator.uhd.edu" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"/></a>
 <a href="https://github.com/Dnsibu"><img align="left" alt="Dnsibu" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg"/></a>
 <a href="https://www.linkedin.com/in/daisy-nsibu/"><img align="left" alt="Dnsibu | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/></a>
 <a href="https://www.instagram.com/daisyhenriettae/"><img align="left" alt="daisyhenriettae | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"/></a>
