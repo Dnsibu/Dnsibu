@@ -12,7 +12,7 @@ I am excited to apply my skills and knowledge to real-world problems and make an
 <a href="https://github.com/Dnsibu"><img align="left" alt="Dnsibu" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg"/></a>
 <a href="https://www.linkedin.com/in/daisy-nsibu/"><img align="left" alt="Dnsibu | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/></a>
 <a href="https://www.instagram.com/daisyhenriettae/"><img align="left" alt="daisyhenriettae | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"/></a>
-<a href="discordapp.com/users/883061604894273617"><img align="left" alt="Dais | Discord" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"/></a>
+<a href="https://discordapp.com/users/883061604894273617"><img align="left" alt="Dais | Discord" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"/></a>
 
 
 </br>
