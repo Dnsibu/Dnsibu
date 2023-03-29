@@ -1,4 +1,4 @@
-# Welcome to my Github Profile, I'm Daisy 👋🏾 👩🏾‍💻
+# Welcome to my Github Profile, I'm Daisy Nsibu 👋🏾 👩🏾‍💻
 I'm Daisy, a data science masters student who is passionate about using data science and machine learning to solve real-world problems. Some technologies that I enjoy working with include python, R, and sql. 
 I am excited to apply my skills and knowledge to real-world problems and make an impact. I am open to opportunities in a variety of industries and am eager to continue learning and growing as a data scientist.
 
