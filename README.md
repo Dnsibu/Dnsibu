@@ -6,7 +6,7 @@ A data science masters student who is passionate about using data science and ma
 I am excited to apply my skills and knowledge to real-world problems and make an impact. I am open to opportunities in a variety of industries and am eager to continue learning and growing as a data scientist.
 
 
-### 🧰 Tools & Technologies
+### 🧰 Tools & Technologies 🧰
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=F37626)
@@ -24,8 +24,9 @@ I am excited to apply my skills and knowledge to real-world problems and make an
 <a href="https://www.instagram.com/daisyhenriettae/"><img align="left" alt="daisyhenriettae | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"/></a>
 <a href="https://discordapp.com/users/883061604894273617"><img align="left" alt="Dais | Discord" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"/></a>
 
-### Thank you for visiting!
-![Visitor Count](https://profile-counter.glitch.me/{Dnsibu}/count.svg)
 
 
-<img align="left" alt="Dnsibu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dnsibu&show_icons=true" />
+<!-- ## ![](https://profile-counter.glitch.me/{Dnsibu}/count.svg) -->
+
+
+<!-- <img align="left" alt="Dnsibu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dnsibu&show_icons=true" /> -->
